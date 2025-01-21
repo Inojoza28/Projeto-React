@@ -10,9 +10,6 @@ Uma aplicação minimalista e funcional de **to-do list** desenvolvida com **Rea
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Créditos](#créditos)
-- [Licença](#licença)
 
 ## Descrição
 
