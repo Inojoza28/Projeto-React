@@ -1,7 +1,6 @@
 // src/components/Footer.jsx
 import React from 'react';
 
-// componente funcional (arrow function)
 const Footer = () => {
   return (
     <footer className="footer">

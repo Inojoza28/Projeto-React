@@ -1,7 +1,7 @@
 // src/components/Header.jsx
 import React from 'react';
 
-// componente funcional (arrow function)
+// (arrow function)
 const Header = () => {
   return (
     <header className="header">
