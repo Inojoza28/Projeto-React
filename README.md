@@ -1,6 +1,6 @@
 # Minha To-Do List
 
-![Projeto To-Do List](https://via.placeholder.com/800x200?text=Minha+To-Do+List)
+![Projeto To-Do List](src/imgs/to-do-list.png)
 
 Uma aplicação minimalista e funcional de **to-do list** desenvolvida com **React** e **Vite**. Este projeto foi realizado como atividade do curso de **React + Angular**, oferecido em parceria entre **Accenture** e **Uninassau Boa Viagem**.
 
